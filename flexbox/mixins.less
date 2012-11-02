@@ -1,11 +1,4 @@
 /****************************
-Configuration
-****************************/
-@flexbox-compat: true;    // Include Flexbox 2009
-@flexbox-prefix: true;    // Include Flexbox 2012 with prefixes
-@flexbox-bare: true;      // Include Flexbox 2012 without prefixes
-
-/****************************
 Prefix mixins for Flexbox 2009
 ****************************/
 .prefix-display-box() {
@@ -146,6 +139,9 @@ Compat mixins for Flexbox 2009
    .prefix-box-flex(@ratio);
 }
 
+.compat-box-ordinal-group(@group) {
+  .prefix-box-ordinal-group(@group);
+}
 
 /****************************
 Prefix mixins for Flexbox 2012
