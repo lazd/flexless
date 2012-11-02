@@ -1,10 +1,6 @@
 #flexless
 
-<<<<<<< HEAD
 A configurable set of LESS mixins that enables use of the CSS Flexible Box Layout Module [2012 Editor's Draft](http://dev.w3.org/csswg/css3-flexbox/) prefixed or un-prefixed with optional fallbacks for the [2009 W3C Working Draft](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/).
-=======
-A set of flexbox mixins that transparently supports both the [2009 working draft](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) and [2012 editor's draft](http://dev.w3.org/csswg/css3-flexbox/) CSS Flexible Box Layout Module.
->>>>>>> 8f8c9160fa94471a6cae8f0c148ec1d8a05cae2d
 
 ## Configuration
 
