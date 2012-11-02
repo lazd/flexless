@@ -2,8 +2,6 @@
 
 A set of flexbox mixins that transparently supports both the [2009 working draft](http://www.w3.org/TR/2009/WD-css3-flexbox-20090723/) and [2012 editor's draft](http://dev.w3.org/csswg/css3-flexbox/) CSS Flexible Box Layout Module.
 
-flexless includes
-
 ## Configuration
 
 flexless supports 3 boolean configuration values that let you quickly drop support for either of the drafts or remove prefixes (if the spec is fully supported by the browsers you choose to support).
